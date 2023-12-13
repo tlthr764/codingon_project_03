@@ -63,9 +63,9 @@
 ### 4-1. 하스스톤 전설 유저수
 ![하스스톤 전설 유저수 추이 (서버 총합)](https://github.com/tlthr764/codingon_project_03/assets/143565463/14251ff2-aef1-4b32-b716-20b0e323b382)
 ![하스스톤 전설 유저수 추이 (서버별)](https://github.com/tlthr764/codingon_project_03/assets/143565463/8bf0b582-137e-4ced-bdca-42a564ad2547)
-![중국 서버 종료 전후 평균 전설 유저수 비교](https://github.com/tlthr764/codingon_project_03/assets/143565463/e447398c-18ef-4439-bfce-221e5f5c7226)
-![중국 서버 종료 전후 전설 유저수 평균 비교 (서버별)](https://github.com/tlthr764/codingon_project_03/assets/143565463/ae3f80db-9002-4eb2-8031-7442a7631548)
 ![하스스톤 전설 유저수 추이 (월별)](https://github.com/tlthr764/codingon_project_03/assets/143565463/e5b3937d-356a-4808-825b-c3ebcab30eee)
+![중국 서버 종료 전후 전설 유저수 평균 비교 (서버별)](https://github.com/tlthr764/codingon_project_03/assets/143565463/ae3f80db-9002-4eb2-8031-7442a7631548)
+![중국 서버 종료 전후 평균 전설 유저수 비교](https://github.com/tlthr764/codingon_project_03/assets/143565463/e447398c-18ef-4439-bfce-221e5f5c7226)
 ![확장팩 발매 전후 전설 유저수 추이](https://github.com/tlthr764/codingon_project_03/assets/143565463/787db4b9-24aa-408d-9bad-4a16fa236194)
 - 하스스톤 전설 유저수는 증가하는 추세이며, 최근 아시아 서버의 전설 유저수가 급격히 증가했다.
 - 중국 서버가 종료된 이후, 서버 종료 이전보다 평균 전설 유저수가 증가한 것으로 보아 중국 유저들이 다른 서버로 유입되었다고 유추할 수 있다.
